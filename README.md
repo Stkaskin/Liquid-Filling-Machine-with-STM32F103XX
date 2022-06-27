@@ -1,6 +1,6 @@
 # Liquid-Filling-Machine-with-STM32F103XX
 
-Amatör bir çalışmadır. Başarılıdır.
+Amatör bir çalışmadır. Başarılıdır..
 <h2>Makina İşlevi Nedir? </h2>
 <h4>
 Makinamız dolum makınasıdır. İşlevi belli bir litre dolum yapmak ve dolum yaparken istenilen miktar geçtikten sonra durmasıdır.
