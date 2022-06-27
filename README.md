@@ -1,7 +1,25 @@
 # Liquid-Filling-Machine-with-STM32F103XX
 
 Amatör bir çalışmadır. Başarılıdır.
+<h2>Makina İşlevi Nedir? </h2>
+<h4>
+Makinamız dolum makınasıdır. İşlevi belli bir litre dolum yapmak ve dolum yaparken istenilen miktar geçtikten sonra durmasıdır.
 
+Bu işlem şu şekilde gerçekleşiyor.  Stm32 ile kesme işlemi saymayı hedefliyoruz . Bu kesmeler ise akış sensörümüzün darbe sayısını ölçmesi sayesinde her darbede bir kesme üretimi sağlıyoruz. Bu kesmeleri daha sonra yorumluyoruz. İlk işlemde bu yorumu gerçekleştirmek içim miktarını bildiğimiz bir miktar suyu sabitlenmiş akış sensörüne işaret alanının gösterdiği taraftan aktarımını sağlıyoruz. Aktarım sonucu sabit akış sensörümüzün ürettiği kesme sayısını yorumluyoruz. Bu yorum şu şekilde 
+Akış sensöründen geçen miktar bölü üretilen kesme sayısı . Bu bize her bir kesmede ne kadar sıvı geçtiğini söyleyecektir.
+
+<h3>Örnek bir hesaplama </h3>
+
+1 Litre su geçirdiğimizde olursak üretilen kesme miktarı 2000 çıktığını varsayarsak .</hr>
+<h3>1000 ml /2000 = 0.5 ml</h3>   Her kesmede üretilen miktar (Kalibrasyon ayarı). Bu miktarı kesme komutlarında bulunan "milim+=  " bölmesine yazıyoruz.
+
+
+Bu hesaplamadna sonra gireceğmiz miktarı tuşlar ile yazıp "*" tuşuna basıyoruz. Daha sonra Röle aktif hale geliyor ve Pompamızın elektrik geçisine izin veriyor.
+Daha sonra pompa çalışırken , dolum yapılırken akış sensörü  istenilen miktarın fazlasını ölçünce röleyi kapatma komutu gönderiyoruz. </h4>
+</br>
+<h4>"A" tuşu durdurma , "B" tuşu miktarsız çalıştırma , "*" girilen miktara göre ölçer , "C" ekranı ve tutulan bilgileri temizleme tuşu</h4>
+
+ 
 <h2>Kullandığımız parçalar.</h2>
 
 <h4>Stm32F103C6T6</h4>
