@@ -10,8 +10,8 @@ Akış sensöründen geçen miktar bölü üretilen kesme sayısı . Bu bize her
 
 <h3>Örnek bir hesaplama </h3>
 
-1 Litre su geçirdiğimizde olursak üretilen kesme miktarı 2000 çıktığını varsayarsak .</hr>
-<h3>1000 ml /2000 = 0.5 ml</h3>   Her kesmede üretilen miktar (Kalibrasyon ayarı). Bu miktarı kesme komutlarında bulunan "milim+=  " bölmesine yazıyoruz.
+1 Litre su geçirdiğimizde olursak üretilen kesme miktarı 200 çıktığını varsayarsak .</hr>
+<h3>1000 ml /200 = 5 ml</h3>   Her kesmede üretilen miktar (Kalibrasyon ayarı). Bu miktarı kesme komutlarında bulunan "milim+=  " bölmesine "5" yazıyoruz.
 
 
 Bu hesaplamadna sonra gireceğmiz miktarı tuşlar ile yazıp "*" tuşuna basıyoruz. Daha sonra Röle aktif hale geliyor ve Pompamızın elektrik geçisine izin veriyor.
