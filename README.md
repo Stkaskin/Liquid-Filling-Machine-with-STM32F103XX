@@ -34,19 +34,20 @@ Daha sonra pompa çalışırken , dolum yapılırken akış sensörü  istenilen
 
 <h4>LCD Ekran 2x8 </h4>
 
-![image](https://user-images.githubusercontent.com/90522945/176002977-da145cd2-dd74-4610-a5ae-976a6b058cd8.png)
+![resim_2022-06-27_212818913](https://user-images.githubusercontent.com/90522945/176010613-c3a8ecfa-a24b-4ee1-a785-9a0786db93c9.png)
+
 
 <h4>Röle (5V İle tetikleme) </h4>
 
-![image](https://user-images.githubusercontent.com/90522945/176003195-d8685d8f-8a28-4a8e-b7be-ba17b20c2488.png)
+![image](https://user-images.githubusercontent.com/90522945/176002977-da145cd2-dd74-4610-a5ae-976a6b058cd8.png)
 
 <h4>4x4 Tuş Takımı</h4>
 
-![image](https://user-images.githubusercontent.com/90522945/176003348-e7d33656-7597-4ad7-acec-c4ee5cf53bd0.png)
+![image](https://user-images.githubusercontent.com/90522945/176003195-d8685d8f-8a28-4a8e-b7be-ba17b20c2488.png)
 
 <h4>12 Bilge Pumps Sıvı Pompası 750 Gph Sintine Pompa</h4>
 
-![image](https://user-images.githubusercontent.com/90522945/176003513-e110133b-9f7b-43ba-8594-a83a9e6c97b9.png)
+![image](https://user-images.githubusercontent.com/90522945/176003348-e7d33656-7597-4ad7-acec-c4ee5cf53bd0.png)
 
 <h4>Su Akış ve Hidrolik Basınç Sensörü (Flowmetter)</h4>
 
