@@ -14,7 +14,7 @@ Akış sensöründen geçen miktar bölü üretilen kesme sayısı . Bu bize her
 <h3>1000 ml /200 = 5 ml</h3>   Her kesmede üretilen miktar (Kalibrasyon ayarı). Bu miktarı kesme komutlarında bulunan "milim+=  " bölmesine "5" yazıyoruz.
 
 
-Bu hesaplamadna sonra gireceğmiz miktarı tuşlar ile yazıp "*" tuşuna basıyoruz. Daha sonra Röle aktif hale geliyor ve Pompamızın elektrik geçisine izin veriyor.
+Bu hesaplamadan sonra gireceğmiz miktarı tuşlar ile yazıp "*" tuşuna basıyoruz. Daha sonra Röle aktif hale geliyor ve Pompamızın elektrik geçisine izin veriyor.
 Daha sonra pompa çalışırken , dolum yapılırken akış sensörü  istenilen miktarın fazlasını ölçünce röleyi kapatma komutu gönderiyoruz. </h4>
 </br>
 <h4>"A" tuşu durdurma , "B" tuşu miktarsız çalıştırma , "*" girilen miktara göre ölçer , "C" ekranı ve tutulan bilgileri temizleme tuşu</h4>
